@@ -82,4 +82,4 @@ Projet Box
             print(exc)
 ```
 
-*Les print qui sont dans notre script nous servais à faire des vérification.*
+*Les print qui sont dans mon script me servais à faire des vérification.*
